@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "author": "Dante Calderon <mail@dantecalderon.dev>",
   "dependencies": {
     "arg": "^4.1.1",
     "buffer-from": "^1.1.1",
